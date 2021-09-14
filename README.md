@@ -1,4 +1,4 @@
-<h1> Original Calculator </h1> --> https://kaushtubgautam.github.io/calculator-of-js-html-css/
+<h1> Original Calculator </h1> --> https://kaushtubgautam.github.io/advanced-calculator
 
 
 Calculator Made up of JS and Html + Css 
